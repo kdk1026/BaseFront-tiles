@@ -1,0 +1,1160 @@
+[16:52:11:601][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:52:11:609][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:52:11:611][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:52:15:297][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 4.638 seconds (JVM running for 5.503)
+[16:53:38:447][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:53:38:450][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:53:38:451][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:53:39:236][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.932 seconds (JVM running for 89.443)
+[16:53:46:04][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:53:46:04][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:53:46:05][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:53:46:630][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.677 seconds (JVM running for 96.836)
+[16:53:50:146][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:216][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:223][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:228][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:234][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:243][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:255][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:262][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:268][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:275][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:281][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:288][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:295][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:301][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:309][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:315][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:324][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:334][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:345][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:350][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:53:50:356][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:406][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:414][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:420][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:432][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:442][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:450][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:476][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:487][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:494][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:502][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:508][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:524][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:532][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:544][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:555][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:560][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:569][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:578][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:584][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:590][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:40:612][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:49][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:57][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:62][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:69][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:75][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:88][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:96][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:102][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:110][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:116][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:122][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:129][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:137][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:142][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:149][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:156][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:162][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:170][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:177][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:187][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:57:196][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:250][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:257][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:264][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:271][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:277][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:283][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:323][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:371][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:387][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:393][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:400][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:409][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:416][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:425][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:431][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:437][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:444][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:450][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:457][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:58:462][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:562][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:572][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:579][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:588][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:593][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:599][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:606][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:611][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:626][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:633][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:641][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:647][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:653][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:658][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:667][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:675][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:681][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:690][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:703][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:54:59:710][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:766][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:782][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:788][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:793][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:799][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:806][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:812][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:818][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:825][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:834][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:841][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:847][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:853][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:864][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:871][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:877][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:883][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:890][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:896][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:04:903][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@6ccc2694
+[16:55:29:223][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:55:29:224][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:55:29:224][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:55:29:794][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.623 seconds (JVM running for 200.0)
+[16:55:34:983][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:34:992][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:34:998][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:10][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:15][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:21][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:38][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:44][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:49][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:55][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:61][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:66][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:78][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:84][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:92][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:98][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:104][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:110][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:114][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:35:127][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:701][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:714][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:724][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:729][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:736][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:741][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:746][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:752][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:761][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:767][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:773][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:778][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:783][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:789][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:795][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:800][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:808][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:813][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:818][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:55:36:829][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4690efde
+[16:56:09:627][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:56:09:628][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:56:09:630][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:56:10:181][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.613 seconds (JVM running for 240.387)
+[16:56:16:102][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:56:16:105][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:56:16:106][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:56:16:837][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.987 seconds (JVM running for 247.042)
+[16:56:18:411][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:56:18:412][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:56:18:413][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:56:18:882][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.507 seconds (JVM running for 249.088)
+[16:56:23:534][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:56:23:536][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:56:23:536][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:56:29:734][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:56:29:735][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:56:29:735][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:56:35:950][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 17124 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:56:35:953][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:56:35:954][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:57:07:587][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:57:07:590][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:57:07:593][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:57:10:941][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 4.008 seconds (JVM running for 4.749)
+[16:57:12:978][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:12:999][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:19][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:39][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:69][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:80][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:89][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:103][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:111][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:131][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:145][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:155][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:168][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:176][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:195][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:207][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:218][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:227][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:237][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:13:252][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:315][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:328][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:338][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:344][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:353][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:360][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:374][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:380][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:389][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:395][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:410][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:416][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:422][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:428][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:437][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:449][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:458][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:464][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:473][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:14:479][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:542][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:552][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:559][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:566][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:575][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:581][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:588][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:603][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:613][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:622][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:628][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:637][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:644][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:652][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:659][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:669][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:676][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:683][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:690][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:19:697][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:116][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:123][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:128][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:133][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:142][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:146][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:150][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:159][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:163][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:170][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:174][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:178][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:182][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:188][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:194][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:198][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:203][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:208][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:212][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:224][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:26:229][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:163][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:172][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:178][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:187][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:200][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:229][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:244][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:251][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:258][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:267][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:274][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:280][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:287][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:293][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:304][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:310][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:323][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:331][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:341][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:27:355][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:433][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:443][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:451][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:460][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:466][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:473][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:479][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:485][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:496][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:504][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:509][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:515][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:526][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:532][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:544][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:551][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:561][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:567][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:573][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:28:579][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:482][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:488][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:495][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:502][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:510][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:515][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:521][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:525][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:530][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:537][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:544][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:549][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:559][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:564][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:575][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:582][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:591][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:596][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:604][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:613][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:29:620][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@36860289
+[16:57:50:787][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:57:50:787][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:57:50:787][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:57:51:665][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.943 seconds (JVM running for 45.473)
+[16:58:08:674][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:699][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:707][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:713][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:729][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:761][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:774][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:781][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:789][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:796][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:801][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:808][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:824][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:830][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:839][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:844][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:850][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:857][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:862][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:867][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:08:876][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:163][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:172][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:177][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:183][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:193][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:199][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:205][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:213][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:221][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:229][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:238][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:244][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:249][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:260][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:266][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:276][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:282][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:293][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:304][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:16:310][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:408][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:421][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:429][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:438][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:454][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:462][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:475][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:487][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:493][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:499][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:509][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:517][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:529][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:537][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:543][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:548][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:555][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:563][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:571][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:592][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:848][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:862][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:869][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:874][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:878][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:882][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:889][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:895][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:900][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:906][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:914][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:920][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:926][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:932][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:941][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:949][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:955][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:960][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:965][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:970][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:17:975][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3a190cd8
+[16:58:53:174][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:58:53:175][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:58:53:175][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:58:54:329][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 1.22 seconds (JVM running for 108.137)
+[16:59:25:799][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[16:59:25:800][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[16:59:25:801][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[16:59:26:422][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.704 seconds (JVM running for 140.23)
+[16:59:44:604][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:623][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:628][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:633][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:642][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:646][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:652][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:659][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:666][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:673][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:677][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:682][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:687][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:692][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:697][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:705][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:710][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:715][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:723][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:728][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:44:742][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:493][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:508][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:513][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:518][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:524][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:532][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:544][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:551][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:560][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:572][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:580][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:587][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:593][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:605][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:610][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:619][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:626][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:633][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:640][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:52:646][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:721][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:731][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:739][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:744][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:750][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:756][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:762][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:773][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:779][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:785][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:791][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:797][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:804][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:815][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:821][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:827][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:832][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:838][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:852][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:53:858][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:927][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:938][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:945][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:950][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:955][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:961][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:966][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:973][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:986][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:991][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:58:997][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:03][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:08][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:13][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:20][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:26][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:32][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:43][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:48][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[16:59:59:54][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:109][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:118][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:125][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:131][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:136][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:141][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:147][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:152][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:166][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:171][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:177][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:182][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:188][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:193][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:198][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:211][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:216][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:225][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:232][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:00:29:238][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1d04875
+[17:04:02:468][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:04:02:468][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:04:02:469][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:04:03:64][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.668 seconds (JVM running for 416.872)
+[17:04:07:891][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:907][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:912][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:918][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:924][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:930][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:936][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:941][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:948][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:955][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:961][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:965][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:972][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:977][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:981][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:987][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:07:994][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:08:02][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:08:08][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:08:14][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:708][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:717][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:723][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:727][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:732][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:745][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:750][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:755][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:762][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:774][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:779][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:785][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:790][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:795][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:801][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:812][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:816][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:822][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:827][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:09:837][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:906][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:914][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:921][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:928][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:933][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:939][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:944][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:957][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:962][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:967][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:974][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:983][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:990][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:10:998][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:11:03][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:11:10][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:11:19][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:11:27][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:11:34][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:11:40][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@3697c2c1
+[17:04:15:903][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:04:15:904][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:04:15:904][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:04:16:469][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.611 seconds (JVM running for 430.277)
+[17:04:16:582][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:589][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:596][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:604][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:608][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:616][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:626][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:634][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:643][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:649][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:656][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:661][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:673][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:678][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:682][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:689][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:695][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:705][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:710][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:16:715][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@61075c82
+[17:04:44:826][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:04:44:826][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:04:44:827][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:04:45:361][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.577 seconds (JVM running for 459.168)
+[17:04:46:780][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:788][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:800][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:809][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:814][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:820][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:824][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:829][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:834][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:845][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:850][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:855][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:865][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:871][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:875][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:880][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:885][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:891][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:896][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:46:901][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:510][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:515][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:520][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:525][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:528][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:532][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:538][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:542][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:546][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:551][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:556][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:560][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:565][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:570][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:574][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:579][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:585][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:589][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:594][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:598][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:04:56:605][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:276][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:287][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:291][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:295][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:298][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:303][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:307][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:312][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:315][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:320][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:323][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:327][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:330][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:335][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:338][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:342][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:346][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:349][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:353][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:357][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:07:360][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:658][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:665][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:674][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:679][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:684][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:690][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:695][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:699][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:706][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:710][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:715][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:721][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:726][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:731][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:736][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:741][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:747][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:753][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:758][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:38:763][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:826][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:832][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:838][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:842][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:847][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:852][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:857][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:862][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:867][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:872][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:876][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:881][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:887][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:892][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:897][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:903][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:908][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:914][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:920][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:39:925][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:44:990][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:44:999][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:07][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:12][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:16][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:21][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:26][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:30][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:35][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:41][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:46][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:51][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:64][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:70][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:76][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:86][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:91][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:96][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:102][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:05:45:106][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5e606738
+[17:06:12:527][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:06:12:528][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:06:12:528][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:06:12:959][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.47 seconds (JVM running for 546.767)
+[17:06:40:405][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:06:40:408][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:06:40:408][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:06:41:140][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.776 seconds (JVM running for 574.948)
+[17:06:49:937][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:06:49:937][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:06:49:938][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:06:50:401][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.5 seconds (JVM running for 584.208)
+[17:07:11:934][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:941][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:945][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:951][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:957][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:962][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:970][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:976][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:981][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:988][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:994][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:11:998][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:04][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:09][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:13][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:21][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:26][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:30][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:35][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:12:40][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@5415f159
+[17:07:37:284][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:07:37:284][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:07:37:285][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:07:37:777][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.526 seconds (JVM running for 631.585)
+[17:07:41:310][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:319][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:323][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:328][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:334][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:340][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:344][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:349][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:364][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:376][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:381][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:387][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:392][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:396][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:401][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:407][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:412][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:417][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:423][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:41:432][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:462][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:474][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:479][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:484][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:489][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:494][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:499][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:513][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:520][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:524][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:529][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:535][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:539][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:545][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:551][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:556][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:561][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:565][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:573][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:07:43:578][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@321573ad
+[17:08:32:136][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:08:32:137][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:08:32:137][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:08:32:640][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.537 seconds (JVM running for 686.448)
+[17:08:35:255][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:08:35:255][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:08:35:256][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:08:35:931][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.728 seconds (JVM running for 689.738)
+[17:08:39:191][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:217][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:222][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:226][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:230][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:236][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:241][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:245][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:252][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:257][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:261][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:265][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:273][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:277][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:280][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:284][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:289][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:292][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:296][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:301][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:39:305][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:381][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:387][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:391][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:395][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:407][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:412][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:417][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:422][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:435][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:440][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:452][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:456][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:462][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:468][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:478][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:489][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:500][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:505][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:514][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:40:522][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:620][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:627][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:637][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:645][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:650][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:656][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:662][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:669][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:674][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:679][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:685][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:690][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:695][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:706][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:711][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:715][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:728][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:732][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:738][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:41:745][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:385][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:393][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:398][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:403][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:408][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:412][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:417][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:421][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:425][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:430][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:435][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:441][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:444][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:448][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:454][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:458][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:461][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:466][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:473][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:476][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:42:480][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@1e8372b1
+[17:08:50:950][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:08:50:951][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:08:50:951][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:08:51:374][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.447 seconds (JVM running for 705.182)
+[17:08:54:07][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:08:54:07][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:08:54:08][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:08:54:568][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.601 seconds (JVM running for 708.376)
+[17:09:40:241][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:247][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:251][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:257][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:261][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:265][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:270][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:274][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:278][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:281][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:286][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:289][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:293][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:296][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:300][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:305][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:309][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:312][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:315][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:320][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:40:323][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:863][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:871][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:874][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:878][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:882][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:907][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:936][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:941][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:945][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:950][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:954][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:958][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:962][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:968][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:974][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:978][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:984][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:993][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:41:996][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:42:01][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:83][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:95][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:102][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:106][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:110][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:115][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:120][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:125][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:133][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:137][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:141][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:145][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:157][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:161][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:165][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:211][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:222][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:229][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:233][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:237][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:247][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:251][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:254][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:258][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:261][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:264][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:268][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:275][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:279][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:281][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:289][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:293][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:296][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:299][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:312][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:43:314][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@738470c1
+[17:09:53:123][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:09:53:124][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:09:53:124][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:09:53:551][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.461 seconds (JVM running for 767.359)
+[17:10:33:279][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 14252 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:10:33:279][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:10:33:279][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:10:33:647][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.39 seconds (JVM running for 807.455)
+[17:11:39:473][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:490][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:494][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:498][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:503][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:509][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:521][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:558][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:568][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:573][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:581][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:590][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:595][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:600][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:605][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:609][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:621][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:625][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:635][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:39:639][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:709][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:715][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:723][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:728][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:735][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:739][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:744][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:750][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:755][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:759][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:764][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:770][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:774][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:779][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:784][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:795][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:799][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:805][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:810][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:40:814][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:832][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:839][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:843][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:847][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:855][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:860][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:864][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:870][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:874][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:878][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:883][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:888][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:899][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:905][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:909][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:913][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:918][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:924][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:928][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:11:45:935][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:15:997][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:12][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:17][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:22][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:27][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:33][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:39][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:44][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:48][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:54][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:59][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:68][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:72][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:77][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:82][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:92][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:96][http-nio-8080-exec-9][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:104][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:108][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:12:16:112][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@60c98536
+[17:14:54:582][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20492 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:14:54:584][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.7, Spring v5.3.24
+[17:14:54:584][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:637] - The following 1 profile is active: "local"
+[17:14:56:514][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 2.347 seconds (JVM running for 3.077)
+[17:19:28:757][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 18540 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:19:28:759][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:19:28:760][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:19:31:587][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 3.461 seconds (JVM running for 4.699)
+[17:20:49:92][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20840 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:20:49:93][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:20:49:94][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:20:50:946][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 2.274 seconds (JVM running for 2.978)
+[17:21:01:766][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20840 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:21:01:766][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:21:01:767][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:21:02:194][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.466 seconds (JVM running for 14.227)
+[17:21:18:170][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20840 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:21:18:171][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:21:18:171][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:21:18:596][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.461 seconds (JVM running for 30.629)
+[17:22:08:563][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20776 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:22:08:565][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:22:08:566][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:22:10:382][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 2.309 seconds (JVM running for 3.122)
+[17:22:20:154][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20776 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:22:20:154][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:22:20:154][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:22:20:659][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.54 seconds (JVM running for 13.398)
+[17:22:29:471][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20776 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:22:29:472][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:22:29:472][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:22:29:901][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.463 seconds (JVM running for 22.64)
+[17:22:35:329][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@14ab0b5b
+[17:22:38:451][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@14ab0b5b
+[17:22:41:559][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@14ab0b5b
+[17:22:50:991][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20776 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:22:50:991][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:22:50:991][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:22:51:336][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.372 seconds (JVM running for 44.076)
+[17:24:08:189][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20776 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:24:08:190][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:24:08:190][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:24:08:557][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.396 seconds (JVM running for 121.297)
+[17:24:10:273][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@59afa959
+[17:24:13:42][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@59afa959
+[17:24:15:230][http-nio-8080-exec-10][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@59afa959
+[17:24:33:665][http-nio-8080-exec-3][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@59afa959
+[17:24:36:968][http-nio-8080-exec-6][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@59afa959
+[17:25:01:702][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20776 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:25:01:703][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:25:01:703][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:25:02:72][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 0.407 seconds (JVM running for 174.812)
+[17:25:03:404][http-nio-8080-exec-2][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4c45c509
+[17:25:09:250][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@19cca9e7
+[17:25:09:516][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@19cca9e7
+[17:25:09:519][http-nio-8080-exec-7][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@19cca9e7
+[17:25:14:117][http-nio-8080-exec-8][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@19cca9e7
+[17:25:54:762][restartedMain][INFO ][BaseFrontTilesApplication:logStarting:55] - Starting BaseFrontTilesApplication using Java 17.0.11 on DESKTOP-9GOVLQH with PID 20676 (D:\_Dev\Java\workspace_sts\BaseFront-tiles\target\classes started by 김대광 in D:\_Dev\Java\workspace_sts\BaseFront-tiles)
+[17:25:54:763][restartedMain][DEBUG][BaseFrontTilesApplication:logStarting:56] - Running with Spring Boot v2.7.18, Spring v5.3.31
+[17:25:54:764][restartedMain][INFO ][BaseFrontTilesApplication:logStartupProfileInfo:638] - The following 1 profile is active: "local"
+[17:25:56:955][restartedMain][INFO ][BaseFrontTilesApplication:logStarted:61] - Started BaseFrontTilesApplication in 2.714 seconds (JVM running for 3.673)
+[17:26:02:127][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@4c67ffa4
+[17:26:08:542][http-nio-8080-exec-4][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@7247274e
+[17:26:09:600][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@7247274e
+[17:26:13:851][http-nio-8080-exec-1][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@7247274e
+[17:26:15:526][http-nio-8080-exec-5][DEBUG][SessionInterceptor:preHandle:42] - org.apache.catalina.session.StandardSessionFacade@7247274e
